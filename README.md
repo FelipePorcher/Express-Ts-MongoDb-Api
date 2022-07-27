@@ -1,6 +1,9 @@
 # Express-Ts-MongoDb-Api
 ---
 
+## Cobertura de Teste
+[![N|Solid](https://photos.app.goo.gl/32Epj4v9oxnUyUfSA)](Imagem)
+
 API com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, 
 Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e, sempre que possível, 
 aplicando Design Patterns para resolver alguns problemas comuns.
@@ -10,7 +13,8 @@ aplicando Design Patterns para resolver alguns problemas comuns.
 * Open Closed Principle (OCP)
 * Liskov Substitution Principle (LSP)
 * Interface Segregation Principle (ISP)
-* Dependency Inversion Principle (DIP)
+* Dependency Inversion Principle (DIP) ( Modulos de alto nivel não devem depender de modulos de baixo nivel, ambos devem dependen de abstrações )
+* Don't Repeat Yourself (DRY) ( Deve ter representação única trechos de códigos, para deixar reutilizavel )
 
 > ## Design Patterns
 * Factory
@@ -82,8 +86,8 @@ aplicando Design Patterns para resolver alguns problemas comuns.
 
 > ## Features do Typescript
 * POO Avançado
-* Interface
-* TypeAlias
+* Interface ( Usado para criar assinaturas de objetos e funções )
+* TypeAlias ( Usado para criar tipos de representação única no código )
 * Utility Types
 * Modularização de Paths
 * Build
