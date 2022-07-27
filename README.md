@@ -1,9 +1,6 @@
 # Express-Ts-MongoDb-Api
 ---
 
-## Cobertura de Teste
-[![N|Solid](https://photos.app.goo.gl/32Epj4v9oxnUyUfSA)](Imagem)
-
 API com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, 
 Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e, sempre que possível, 
 aplicando Design Patterns para resolver alguns problemas comuns.
@@ -72,17 +69,6 @@ aplicando Design Patterns para resolver alguns problemas comuns.
 * CORS
 * Middlewares
 * Nível de Acesso nas Rotas (User e Anônimo)
-
-> ## Features do Git
-* Alias
-* Log Personalizado
-* Branch
-* Reset
-* Amend
-* Tag
-* Stash
-* Rebase
-* Merge
 
 > ## Features do Typescript
 * POO Avançado
