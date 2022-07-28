@@ -6,7 +6,7 @@ Clean Architecture para fazer a distribuição de responsabilidades em camadas, 
 aplicando Design Patterns para resolver alguns problemas comuns.
 
 > ## Princípios
-* Single Responsibility Principle (SRP)
+* Single Responsibility Principle (SRP) ( Um modulo é responsavel apenas para um grupo de usuários)
 * Open Closed Principle (OCP)
 * Liskov Substitution Principle (LSP)
 * Interface Segregation Principle (ISP)
